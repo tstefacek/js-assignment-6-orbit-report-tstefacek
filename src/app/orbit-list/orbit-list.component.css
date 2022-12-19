@@ -3,6 +3,11 @@
 	color: #dd5;
 }
 
+.alternateColor {
+	background-color: rgb(17, 31, 225);
+	color: green;
+}
+
 .warning {
 	background-color: #da8a8a;
 }
