@@ -18,9 +18,8 @@ export class Satellite {
 		return this.type === "Space Debris"
    }
 
-   alternateColor(): boolean {
-	return true
-   }
+   evenOrOdd() {
 
+   }
 }
 // TODO 3a: fix isSpaceDebris check
