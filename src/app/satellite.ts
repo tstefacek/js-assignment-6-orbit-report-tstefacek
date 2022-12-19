@@ -17,9 +17,6 @@ export class Satellite {
 	isSpaceDebris(): boolean {
 		return this.type === "Space Debris"
    }
-
-   evenOrOdd() {
-
-   }
+   
 }
 // TODO 3a: fix isSpaceDebris check
